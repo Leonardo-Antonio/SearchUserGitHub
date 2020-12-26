@@ -1,2 +1,1 @@
-# SearchUserGitHub
-search user in github
+# User search by github
